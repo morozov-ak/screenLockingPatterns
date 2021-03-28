@@ -1,4 +1,7 @@
 # screenLockingPatterns
+
+https://www.codewars.com/kata/585894545a8a07255e0002f1
+
 Codewars: Screen Locking Patterns
 Screen Locking Patterns
 
